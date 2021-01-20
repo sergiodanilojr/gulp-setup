@@ -108,11 +108,11 @@ npm install --save-dev gulp-imagemin
 ##### Browser Sync
 
 ```bash
-     npm install --save-dev browser-sync
+npm install --save-dev browser-sync
 ```
 
 ##### Plumber
 
 ```bash
-      npm install --save-dev gulp-plumber
+npm install --save-dev gulp-plumber
 ```
